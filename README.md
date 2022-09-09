@@ -7,4 +7,4 @@
 - 💬 Ask me about anything, always looking to share opinions and ideas.
 - 💬 Spoken languages: English/Spanish
 - 📫 How to reach me: ...
-- ⚡ Fun fact: What we gonna do tomorrow night?... Same thing we do every night Pinky, try to take over the world!
+- ⚡ Fun fact: What we gonna do tomorrow night?... Same thing we do every night, try to take over the world!
