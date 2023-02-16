@@ -7,6 +7,8 @@
 - 💬 Spoken languages: English/Spanish
 - ⚡ Fun fact: What we gonna do tomorrow night?... Same thing we do every night, try to take over the world!
 
+---
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
