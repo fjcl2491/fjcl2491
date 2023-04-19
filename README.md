@@ -7,8 +7,7 @@
 - 💬 Spoken languages: English/Spanish
 - ⚡ Fun fact: What we gonna do tomorrow night?... Same thing we do every night, try to take over the world!
 - «If a human operator needs to touch your system durig normal operations, you have a bug»
-Carla Geisser, Google SRE![image](https://user-images.githubusercontent.com/67445501/233061650-35bd0c55-1cc2-4d8d-906b-4970913a57d9.png)
-
+Carla Geisser, Google SRE!
 
 ---
 
