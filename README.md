@@ -1,12 +1,12 @@
 ### Hi, I'm Fran 👋
 
-- 🔭 I’m currently working on my data and computer science skills.
+- 🔭 I’m currently working on my computer science, software development and data science skills.
 - 👯 I’m looking to collaborate on interesting projects.
 - 🤔 I’m always looking for help to learn new skills and work with different teams.
 - 💬 Ask me about anything, always looking to share opinions and ideas.
 - 💬 Spoken languages: English/Spanish
 - ⚡ Fun fact: What we gonna do tomorrow night?... Same thing we do every night, try to take over the world!
-- ⚡ If a human operator needs to touch your system durig normal operations, you have a bug.
+- ⚡ If a human operator needs to touch your system during normal operations, you have a bug.
 Carla Geisser
 
 ---
