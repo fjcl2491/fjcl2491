@@ -5,7 +5,7 @@
 - 🤔 I’m always looking to learn new skills and work with different teams.
 - 💬 Ask me about anything, always looking to share opinions and ideas.
 - 💬 Spoken languages: English/Spanish
-- Hobbies: Sports (surf, kitesurf, soccer, tennis, padel, swimming, hiking, biking)
+- 🏄 Hobbies: Sports (surf, kitesurf, soccer, tennis, padel, swimming, hiking, biking)
 - ⚡ Fun fact: What we gonna do tomorrow night?... Same thing we do every night, try to take over the world!
 - ⚡ Quote: "If a human operator needs to touch your system during normal operations, you have a bug." Carla Geisser
 
