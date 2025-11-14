@@ -1,6 +1,6 @@
 ### Hi, I'm Fran 👋
 
-- 🔭 I’m currently working on my data science and software development skills.
+- 🔭 I’m currently working on my data engineer, ml engineer, data science, and software development skills.
 - 🧑🏽‍💼 I’m looking to collaborate on interesting projects.
 - 📖 I’m always looking to learn new skills and work with different teams.
 - 💬 Ask me about anything, always looking to share opinions and ideas.
